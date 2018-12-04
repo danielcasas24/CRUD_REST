@@ -1,1 +1,5 @@
 *.css linguist-detectable=false
+*.java linguist-detectable=true
+*.js linguist-detectable=true
+*.html linguist-detectable=true
+*.htm linguist-detectable=true
