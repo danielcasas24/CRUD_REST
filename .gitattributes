@@ -1,2 +1,1 @@
-*.css linguist-vendored
-
+CRUD_REST_Client/web/css/* linguist-vendored
