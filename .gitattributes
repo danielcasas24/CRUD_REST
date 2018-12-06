@@ -1,1 +1,2 @@
-CRUD_REST_Client/web/css/* linguist-generated
+*.css linguist-vendored
+
