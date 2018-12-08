@@ -1,3 +1,4 @@
 CRUD_REST_Client/web/css/* linguist-vendored
 CRUD_REST_Client/build/web/css/* linguist-vendored
-CRUD_REST_Server/build/web/WEB-INF/classes/* linguist-vendored
+CRUD_REST_Server/build/web/WEB-INF/classes/*.css linguist-vendored
+CRUD_REST_Server/build/generated-sources/rest-test/*.css  linguist-vendored
